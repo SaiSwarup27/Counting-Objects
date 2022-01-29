@@ -1,2 +1,2 @@
 # Counting-Objects
-### Counting number of Objects using Python-OpenCV with python GUI.
+### Counting number of Objects using Python-OpenCV 
