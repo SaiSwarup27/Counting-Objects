@@ -7,6 +7,15 @@ Prerequisites:
 >- Tkinter : It is the standard GUI library for Python.
 
 Working:
->step1: Importing an image using opencv
-<img src="https://github.com/SaiSwarup27/Counting-Objects/images/objects2.jpg">
+> step1: Importing an image using opencv </br>
+
+<img src="https://github.com/SaiSwarup27/Counting-Objects/blob/master/images/objects3.jpg">
+
+> step2: Manipulating image </br>
+ - Gray Scaling
+ - Bluring
+ - Finding out edges
+
+<img src="https://github.com/SaiSwarup27/Counting-Objects/blob/master/images/objects3_result.png">
+
 
