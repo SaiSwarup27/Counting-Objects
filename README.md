@@ -15,6 +15,8 @@ Working:
  - Gray Scaling
  - Bluring
  - Finding out edges
+ - Calculate the counter in the image
+ - printing out result
 
 <img src="https://github.com/SaiSwarup27/Counting-Objects/blob/master/images/objects3_result.png">
 
